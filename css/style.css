@@ -100,7 +100,7 @@ body {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  background-image: url(../images/hero-bg.jpg);
+  /* background-image: url(../images/hero-bg.jpg); */
   background-size: cover;
   background-attachment: fixed;
 }
@@ -187,7 +187,7 @@ a:focus {
 }
 
 .custom_nav-container .nav_search-btn {
-  background-image: url(../images/search-icon.png);
+  /* background-image: url(../images/search-icon.png); */
   background-size: 22px;
   background-repeat: no-repeat;
   background-position-y: 7px;
@@ -226,7 +226,7 @@ a:focus {
 }
 
 .custom_nav-container .navbar-toggler .navbar-toggler-icon {
-  background-image: url(../images/menu.png);
+  /* background-image: url(../images/menu.png); */
   background-size: 55px;
 }
 
@@ -326,7 +326,7 @@ a:focus {
 }
 
  .us_section {
-  background-image: url(../images/us-bg.jpg);
+  /* background-image: url(../images/us-bg.jpg); */
   background-size: cover;
   background-attachment: fixed;
   color: #ffffff;
@@ -396,7 +396,7 @@ a:focus {
 }
 
 .heathy_section {
-  background-image: url(../images/healthy-bg.jpg);
+  /* background-image: url(../images/healthy-bg.jpg); */
   background-size: cover;
   background-attachment: fixed;
   color: #ffffff;
@@ -457,7 +457,7 @@ a:focus {
   list-style-position: inside;
 }
 .experience_section {
-  background-image: url(../images/trainer-bg.jpg);
+  /* background-image: url(../images/trainer-bg.jpg); */
   background-size: cover;
   background-attachment: fixed;
   color: #ffffff;
@@ -504,7 +504,7 @@ a:focus {
 
 
 .accomplishment_section {
-  background-image: url(../images/trainer-bg.jpg);
+  /* background-image: url(../images/trainer-bg.jpg); */
   background-size: cover;
   background-attachment: fixed;
   color: #ffffff;
