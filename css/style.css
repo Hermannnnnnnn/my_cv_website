@@ -342,11 +342,11 @@ a:focus {
 }
 
 .project_section {
-  filter: brightness(70%);
+  filter: brightness(90%);
   background-image: linear-gradient(rgba(0, 0, 0, 0.514),rgba(0, 0, 0, 0.596)), url(../images/project.jpg);
   background-size: cover;
   background-attachment: fixed;
-  color: #a8a6a6;
+  color: #ffffff;
   background-color:#0a2503
 
 }
