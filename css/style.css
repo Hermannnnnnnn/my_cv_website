@@ -101,6 +101,7 @@ body {
       -ms-flex-direction: column;
           flex-direction: column;
   background-image: url(../images/hero-bg.jpg);
+  /* background-color:#f30d0d; */
   background-size: cover;
   background-attachment: fixed;
 }
@@ -332,10 +333,35 @@ a:focus {
   color: #ffffff;
 }
 
+.skills_section {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)), url(../images/skills.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  color: #ffffff;
+  background-color:#100a2c
+}
+
+.project_section {
+  filter: brightness(70%);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.514),rgba(0, 0, 0, 0.596)), url(../images/project.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  color: #a8a6a6;
+  background-color:#0a2503
+
+}
+
+
  .us_container {
   padding-top: 75px;
 
 }
+
+.education_section  .us_container {
+  padding-top: 4px;
+
+}
+
 
  .us_container .row {
   -webkit-box-align: center;
@@ -457,7 +483,10 @@ a:focus {
   list-style-position: inside;
 }
 .experience_section {
-  background-image: url(../images/trainer-bg.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.959),rgba(0, 0, 0, 0.61)), url(../images/experience.jpg);
+  filter: brightness(70%);
+
+  /* background-image: url(../images/experience.jpg); */
   background-size: cover;
   background-attachment: fixed;
   color: #ffffff;
@@ -467,9 +496,24 @@ a:focus {
   text-align: center;
   margin-bottom: 20px;
 }
+
+.education_section {
+  /* background-image: url(../images/trainer-bg.jpg); */
+  background-size: cover;
+  background-attachment: fixed;
+  color: #dad7d9;
+  /* background-color:#1d1c1c93; */
+  text-align: center;
+  filter: brightness(70%);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.664),rgba(0, 0, 0, 0.705)), url(../images/education.jpg);
+
+
+}
+
+
 .education_section .text_box {
   text-align: center;
-  margin-bottom: 20px;
+  /* margin-bottom: 20px; */
 }
 
 
@@ -504,7 +548,10 @@ a:focus {
 
 
 .accomplishment_section {
-  background-image: url(../images/trainer-bg.jpg);
+  filter: brightness(70%);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.658),rgba(0, 0, 0, 0.63)), url(../images/accomplishment.jpg);
+
+  /* background-image: url(../images/trainer-bg.jpg); */
   background-size: cover;
   background-attachment: fixed;
   color: #ffffff;
