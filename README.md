@@ -1,1 +1,1 @@
-Go to https://htmlpreview.github.io/?https://github.com/Hermannnnnnnn/my_cv_website/blob/main/index.html to see the page. 
+go to https://hermannnnnnnn.github.io/my_cv_website/ to see the website. Hosted by github yay
